@@ -1,0 +1,27 @@
+/*************************
+********About CSS*******
+**************************/
+#about-us {
+  background-image: url(../../image/Tony-MainImage.jpg);
+  padding: 120px 0;
+  background-position-y: 60px;
+  
+}
+
+#about-us .lead {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+#about-us h1 {
+  margin-bottom: 30px;
+}
+.about-info{
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 25px;
+  color: #303030;
+}
+
+.about-header{
+    text-transform: uppercase;
+}
